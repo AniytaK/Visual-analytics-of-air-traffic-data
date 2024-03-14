@@ -1,4 +1,4 @@
-# Visual-analytics-of-air-traffic-data
+# Visual_Analytics_Of_Air_Traffic_Data
 Introduction
 
 Several thousand airplanes take off and land on Earth every day. This generates spatio-temporal data that allows many possibilities for exploration. 

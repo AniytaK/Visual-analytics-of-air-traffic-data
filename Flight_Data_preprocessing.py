@@ -153,6 +153,7 @@ def combine_airlines_routes_data():
     data_files = ["Air Berlin.csv",
                   "Air France.csv",
                   "Austrian Airlines.csv",
+                  "Condor Flugdienst.csv",
                   "Delta Air Lines (DL).csv",
                   "Ethiopian Airlines.csv",
                   "Germanwings.csv",
@@ -160,7 +161,10 @@ def combine_airlines_routes_data():
                   "KLM Royal Dutch Airlines.csv",
                   "Lufthansa.csv",
                   "Swiss International Air Lines.csv",
-                  "United Airlines.csv"]
+                  "Transavia Holland.csv"
+                  "United Airlines.csv",
+                  "Air China.csv",
+                  "Emirates.csv"]
     dataframes = []
     for datei in data_files:
         df = pd.read_csv(datei)

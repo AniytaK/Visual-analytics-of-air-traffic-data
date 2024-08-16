@@ -161,7 +161,7 @@ def combine_airlines_routes_data():
                   "KLM Royal Dutch Airlines.csv",
                   "Lufthansa.csv",
                   "Swiss International Air Lines.csv",
-                  "Transavia Holland.csv"
+                  "Transavia Holland.csv",
                   "United Airlines.csv",
                   "Air China.csv",
                   "Emirates.csv"]

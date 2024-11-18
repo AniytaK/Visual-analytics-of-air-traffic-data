@@ -13,4 +13,12 @@ Python 3.x
 Numpy
 Pandas
 MatplotLib
+flightradar24
+FlightRadarAPI
+statsmodels
+Dash
+Plotly
+seaborn
+scikit-learn
+scipy
 ...

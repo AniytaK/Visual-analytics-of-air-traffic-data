@@ -9,30 +9,22 @@ Flight Data Analysis
 Software's and Libraries:
 
 Jupyter Notebook, 
-
 Python 3.x, 
 
 Numpy, 
-
-Pandas, 
-
-MatplotLib, 
+Pandas,  
 
 flightradar24, 
-
-FlightRadarAPI, 
-
-statsmodels, 
+FlightRadarAPI,  
 
 Dash, 
-
 Plotly, 
-
 seaborn, 
+MatplotLib,
 
 scikit-learn, 
-
 scipy, 
+statsmodels,
 ...
 
 Dashboard:
@@ -41,3 +33,6 @@ The dashboard was developed with the web framework library Dash, which is specia
 
 
 ![db1](https://github.com/user-attachments/assets/3577e8e5-e96e-4821-8ebb-07376acea7ee)
+
+![db2](https://github.com/user-attachments/assets/3c4b1ecc-5ad8-40b0-ab68-40e9730e24d0)
+

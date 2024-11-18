@@ -9,17 +9,29 @@ Flight Data Analysis
 Software's and Libraries:
 
 Jupyter Notebook, 
+
 Python 3.x, 
+
 Numpy, 
+
 Pandas, 
+
 MatplotLib, 
+
 flightradar24, 
+
 FlightRadarAPI, 
+
 statsmodels, 
+
 Dash, 
+
 Plotly, 
+
 seaborn, 
+
 scikit-learn, 
+
 scipy, 
 ...
 

@@ -6,6 +6,7 @@ Several thousand airplanes take off and land on Earth every day. This generates 
 
 Flight Data Analysis
 
+
 Software's and Libraries:
 
 Jupyter Notebook, 
@@ -20,19 +21,24 @@ FlightRadarAPI,
 Dash, 
 Plotly, 
 seaborn, 
-MatplotLib,
+MatplotLib, 
+Folium,
 
 scikit-learn, 
 scipy, 
 statsmodels,
+re
 ...
 
 Dashboard:
 
 The dashboard was developed with the web framework library Dash, which is specially designed for the creation of analytical web applications in Python.
 
+Tab 1
 
 ![db1](https://github.com/user-attachments/assets/3577e8e5-e96e-4821-8ebb-07376acea7ee)
+
+Tab 2
 
 ![db2](https://github.com/user-attachments/assets/3c4b1ecc-5ad8-40b0-ab68-40e9730e24d0)
 

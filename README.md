@@ -22,3 +22,10 @@ seaborn,
 scikit-learn, 
 scipy, 
 ...
+
+Dashboard:
+
+The dashboard was developed with the web framework library Dash, which is specially designed for the creation of analytical web applications in Python.
+
+
+![db1](https://github.com/user-attachments/assets/3577e8e5-e96e-4821-8ebb-07376acea7ee)
